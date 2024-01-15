@@ -1,5 +1,5 @@
 Aditya's Portfolio
-Welcome to my personal portfolio! This repository showcases my skills, projects, and experiences as a [Your Profession/Title]. I am passionate about [mention a few key areas of interest or expertise].
+Welcome to my personal portfolio! This repository showcases my skills, projects, and experiences as a Software Engineer. 
 
 Table of Contents
 About Me
